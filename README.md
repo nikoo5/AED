@@ -10,6 +10,6 @@
 
 **Legajo**: 146.520-0
 
-## Indice
+## Índice
 
-- [Trabajo Paractico #0 - Hello World](00-CppHelloWorld)
+- [Trabajo Práctico #0 - Hello World](00-CppHelloWorld)
