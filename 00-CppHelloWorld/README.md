@@ -1,4 +1,4 @@
-# Trabajo practico #0 - Hello World
+# Trabajo Práctico #0 - Hello World
 
 ### Versión del compilador G++
 
