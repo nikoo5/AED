@@ -2,9 +2,13 @@
 
 **Profesor**: Ing. José María Sola
 
+**Curso**: K1253
+
+**Año**: 2022
+
 **Alumno**: Nicolás Filippi Farmar
 
-**Curso**: K1253
+**Legajo**: 146.520-0
 
 ## Indice
 
