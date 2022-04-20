@@ -33,7 +33,7 @@ El código fuente debe ser previamente compilado para luego poder ser ejecutado 
 Primero se debe correr el comando de compilación:
 
 ```
-# g++ hello.cpp
+# g++ --std=c++20 hello.cpp -o hello.exe
 ```
 
 Luego con el ejecutable ya compilado, correrlo y enviar su salida al archivo de texto output.txt
