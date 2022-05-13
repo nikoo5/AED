@@ -13,3 +13,4 @@
 ## Índice
 
 - [Trabajo Práctico #0 - Hello World](00-CppHelloWorld)
+- [Trabajo Práctico #1 - Ejemplos de Valores y Operaciones de Tipos de Datos](00-CppHelloWorld)
